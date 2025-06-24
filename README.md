@@ -53,7 +53,3 @@ If I had more time, I’d:
 **Samantha Colbert**
 HCP Digital Marketing Specialist @ Kenvue
 Master's student in Artificial Intelligence 🎓
-
----
-
-Let me know if you want this saved as a `.md` file or need a shorter version for GitHub preview!
